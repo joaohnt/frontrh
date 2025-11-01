@@ -1,0 +1,11 @@
+.app {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.app-content {
+  margin-left: 0;
+  padding: 0;
+  min-height: calc(100vh - 70px);
+}
+
